@@ -1,0 +1,18 @@
+*{margin: 0; padding: 0;}
+
+@media (min-width: 768px) {
+    .op{
+        justify-content: center;
+    }
+    .img01{
+        width: 100%;
+    }
+    .img02{
+        width: 30%;
+    }
+    .titulo{
+        text-align: center;
+    }
+    .item{
+    }
+}
